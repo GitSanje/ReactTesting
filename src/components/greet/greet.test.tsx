@@ -11,7 +11,8 @@ describe("Greet Component", () => {
         render(<Greet/>);
         const element = screen.getByText(/Hello/);
         expect(element).toBeInTheDocument();
-        });
+
+    });
 
     // test( " renders with a name", () => {
     //     render(<Greet name="Alice"/>);
