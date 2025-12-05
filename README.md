@@ -235,3 +235,8 @@ You will use expect along with a matcher fuc to assert sthg about a value
  4. getByText
  5. getByDisplayValue
  
+
+
+ # Custom Render
+
+- `https://testing-library.com/docs/react-testing-library/setup/`
